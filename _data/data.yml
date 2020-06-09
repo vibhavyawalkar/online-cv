@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Vibhav Yawalkar
     tagline: Graduate Student at University at Buffalo, The State University of New York
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vibhavyawalkar@gmail.com
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: https://www.linkedin.com/in/vibhavyawalkar
+    github: https://github.com/vibhavyawalkar
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -169,13 +169,13 @@ skills:
 
     toolset:
       - name: C/C++
-        level: Proficient
+        level: 98%
         
       - name: Java
-        level: Intermediate
+        level: 65%
 
       - name: Go, Rust
-        level: Beginner
+        level: 50%
         
       - name: Javascript & jQuery
         level: 98%
